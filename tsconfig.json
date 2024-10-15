@@ -1,0 +1,15 @@
+{
+  "exclude": [
+    "./test",
+    "./node_modules",
+    "./dist"
+  ],
+  "compilerOptions": {
+    "target": "ES2022",
+    "module": "commonjs",                                /* Specify what module code is generated. */
+    "rootDir": "./src",                                  /* Specify the root folder within your source files. */
+    "outDir": "./dist",
+    "sourceMap": true,
+    "declaration": true
+  }
+}

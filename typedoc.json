@@ -1,0 +1,10 @@
+{
+  "entryPoints": [
+    "./src/ejercicio-1/biblioElement.ts",
+    "./src/ejercicio-1/biblioTypes.ts",
+    "./src/ejercicio-2/MenuInstance.ts",
+    "./src/ejercicio-2/MenuSolution.ts",
+    "./src/ejercicio-2/Solver.ts"
+  ],
+  "out": "./typeDocs"
+}
