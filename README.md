@@ -1,5 +1,3 @@
-# Práctica 5
-
 ## Ejercicio 1 - Gestor de Referencias Bibliográficas
 
 Para este ejercicio se ha desarrollado una estructura de clases e interfaces para represetnar un gestor de referencias bibliográficas. Teniendo en cuenta que cada referencia bibliográfica tiene elementos comunes a todas ellas, pero algunas tienen más elementos que otras. Por ello se han desarrollado las siguientes clases:
